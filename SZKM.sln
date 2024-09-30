@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SZKMu", "SZKMu\SZKMu.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationBaked", "AnimationBaked\AnimationBaked.csproj", "{1B7444A9-DF5C-4700-AB8A-9E70443BE652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunditionTest", "FunditionTest\FunditionTest.csproj", "{5B436108-DC81-4774-8C55-CCFF4800A403}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionTest", "FunctionTest\FunctionTest.csproj", "{5B436108-DC81-4774-8C55-CCFF4800A403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
