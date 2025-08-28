@@ -1,3 +1,6 @@
 [submodule "AnimationBaked"]
 	path = AnimationBaked
-	url = git@github.com:DevForEm/AnimationBaked.git
+	url = https://github.com/DevForEm/AnimationBaked.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/DevForEm/Backend.git
