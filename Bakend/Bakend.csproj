@@ -1,19 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <OutputType>Exe</OutputType>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>FunctionTest</RootNamespace>
         <TargetFrameworks>net8.0;net9.0;net8.0-windows</TargetFrameworks>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\Bakend\Bakend.csproj" />
+      <PackageReference Include="Npgsql" Version="9.0.3" />
+      <PackageReference Include="StackExchange.Redis" Version="2.9.11" />
+      <PackageReference Include="System.Data.SQLite.Core" Version="1.0.119" />
     </ItemGroup>
 
 </Project>
