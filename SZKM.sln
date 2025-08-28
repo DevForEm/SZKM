@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationBaked", "Animation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionTest", "FunctionTest\FunctionTest.csproj", "{5B436108-DC81-4774-8C55-CCFF4800A403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakend", "Bakend\Bakend.csproj", "{5C3D7AB2-7DFE-4927-981C-C05CC8F6798A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakend", "Backend\Backend.csproj", "{5C3D7AB2-7DFE-4927-981C-C05CC8F6798A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
