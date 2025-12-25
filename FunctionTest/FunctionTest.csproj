@@ -5,7 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RootNamespace>FunctionTest</RootNamespace>
-        <TargetFrameworks>net8.0;net9.0;net8.0-windows</TargetFrameworks>
+        <TargetFrameworks>net9.0;net8.0</TargetFrameworks>
     </PropertyGroup>
 
     <ItemGroup>
