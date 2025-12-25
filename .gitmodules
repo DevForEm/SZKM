@@ -4,3 +4,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/DevForEm/Backend.git
+[submodule "Service"]
+	path = Service
+	url = https://github.com/DevForEm/Service.git
